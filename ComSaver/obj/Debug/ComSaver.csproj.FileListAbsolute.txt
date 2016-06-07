@@ -1,0 +1,6 @@
+c:\users\idmty\documents\visual studio 2015\Projects\ComSaver\ComSaver\bin\Debug\ComSaver.exe.config
+c:\users\idmty\documents\visual studio 2015\Projects\ComSaver\ComSaver\bin\Debug\ComSaver.exe
+c:\users\idmty\documents\visual studio 2015\Projects\ComSaver\ComSaver\bin\Debug\ComSaver.pdb
+c:\users\idmty\documents\visual studio 2015\Projects\ComSaver\ComSaver\obj\Debug\ComSaver.csprojResolveAssemblyReference.cache
+c:\users\idmty\documents\visual studio 2015\Projects\ComSaver\ComSaver\obj\Debug\ComSaver.exe
+c:\users\idmty\documents\visual studio 2015\Projects\ComSaver\ComSaver\obj\Debug\ComSaver.pdb
